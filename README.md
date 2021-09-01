@@ -1,1 +1,1 @@
-# CSS-Fundamentals-Challenge
+# CSS-Fundamental-Challenges
