@@ -15,7 +15,7 @@ img {
 }
 
 .container {
-  width: 570px;
+  max-width: 570px;
   margin: 0 auto;
 }
 
@@ -144,4 +144,10 @@ section {
 .btn:active {
   background: gray;
   color: #252525;
+}
+
+@media (min-width 500px) {
+	body {
+		display: flex;
+	}
 }
