@@ -140,7 +140,7 @@ section {
 
 .inverse .btn:active,
 .btn:active {
-  background: #99d930;
-  color: #252525;
+	background: #99d930;
+	color: #252525;
 	transform: scale(1);
 }
