@@ -96,7 +96,7 @@ a:active {
 
 header,
 section {
-  padding: 100px 0;
+  padding: 6.25em 0;
 }
 
 .inverse {
@@ -127,8 +127,8 @@ section {
   color: #252525;
   background: #99d930;
   text-decoration: none;
-  padding: 10px 25px;
-  margin-top: 45px;
+  padding: .625em 1.5625em;
+  margin-top: 2.8125em;
   border: 3px solid #99d930;
   border-radius: 50px;
 }
