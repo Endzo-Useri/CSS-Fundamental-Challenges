@@ -1,9 +1,7 @@
-/* First redo */
-
 body {
   text-align: center;
   font-family: "Roboto", sans-serif;
-  font-size: 21px;
+  font-size: 1.3125rem;
   font-weight: 300;
   margin: 0;
 }
@@ -22,11 +20,11 @@ img {
 /* Typography */
 
 h1 .accent-text {
-  font-size: 80px;
+  font-size: 5rem;
 }
 
 h2 .accent-text {
-  font-size: 60px;
+  font-size: 3.75rem;
 }
 
 h1,
@@ -35,21 +33,21 @@ h2 {
 }
 
 h1 {
-  font-size: 60px;
+  font-size: 3.75rem;
   margin-top: 0;
 }
 
 h2 {
-  font-size: 42px;
+  font-size: 2.625rem;
   margin-top: 0;
-  padding: 20px 0;
-  margin-bottom: 20px;
+  padding: .5em 0;
+  margin-bottom: .5em;
   border-top: 1px solid #c4c4c4;
   border-bottom: 1px solid #c4c4c4;
 }
 
 h3 {
-  font-size: 36px;
+  font-size: 2.25rem;
   font-weight: 900;
   margin-bottom: 0;
 }
@@ -66,11 +64,11 @@ time {
 }
 
 h1 .accent-text {
-  font-size: 80px;
+  font-size: 5rem;
 }
 
 h2 .accent-text {
-  font-size: 60px;
+  font-size: 3.75rem;
 }
 
 p {
@@ -92,8 +90,8 @@ a:active {
 }
 
 .small-text {
-  font-size: 16px;
-  margin-top: 5px;
+  font-size: 1rem;
+  margin-top: .3125em;
 }
 
 header,
