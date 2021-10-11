@@ -111,19 +111,8 @@ section {
 
 /* button styles */
 
-.inverse .btn:hover,
-.inverse .btn:focus {
-  background: #fff;
-  color: #252525;
-}
-
-.inverse .btn:active {
-  background: #99d930;
-  color: #252525;
-}
-
 .btn {
-  display: inline-block;
+	display: inline-block;
   color: #252525;
   background: #99d930;
   text-decoration: none;
@@ -137,11 +126,19 @@ section {
 
 .btn:hover,
 .btn:focus {
-  background: #252525;
+	background: #252525;
   color: #fff;
 	transform: scale(1.05);
 }
 
+.inverse .btn:hover,
+.inverse .btn:focus {
+	background: #fff;
+	color: #252525;
+	transform: scale(1.05);
+}
+
+.inverse .btn:active,
 .btn:active {
   background: #99d930;
   color: #252525;
