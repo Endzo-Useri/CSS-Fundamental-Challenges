@@ -1,7 +1,10 @@
+html {
+  font-size: .9rem;
+}
+
 body {
   text-align: center;
   font-family: "Roboto", sans-serif;
-  font-size: 1.3125rem;
   font-weight: 300;
   margin: 0;
 }
