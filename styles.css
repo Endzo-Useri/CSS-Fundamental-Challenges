@@ -193,4 +193,8 @@ section {
 		background: #252525;
 	}
 
+	.articles.inverse h2 {
+		border-color: #252525;
+	}
+
 }
