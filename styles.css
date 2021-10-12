@@ -194,7 +194,7 @@ section {
 	}
 
 	.articles.inverse h2 {
-		border-color: #252525;
+		border-color: currentColor;
 	}
 
 }
