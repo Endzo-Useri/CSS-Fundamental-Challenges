@@ -2,12 +2,6 @@ html {
   font-size: .9rem;
 }
 
-@media (min-width: 600px) {
-	html {
-		font-size: 1.3125rem;
-	}
-}
-
 body {
   text-align: center;
   font-family: "Roboto", sans-serif;
@@ -25,10 +19,10 @@ img {
 .container {
 	/* width or padding used to keep content
 	from touching sides of screen at small sizes*/
-	width: 90%;
+	/* width: 90%; */
   max-width: 570px;
   margin: 0 auto;
-	/* padding: 0 2em; */
+	padding: 0 2em;
 }
 
 /* Typography */
@@ -152,4 +146,16 @@ section {
 	background: #99d930;
 	color: #252525;
 	transform: scale(1);
+}
+
+@media (min-width: 600px) {
+	html {
+		font-size: 1.3125rem;
+	}
+}
+
+@media (min-width: 750px) {
+	.splitter {
+		display: flex;
+	}
 }
