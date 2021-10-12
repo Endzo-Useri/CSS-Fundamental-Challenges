@@ -23,9 +23,12 @@ img {
 }
 
 .container {
+	/* width or padding used to keep content
+	from touching sides of screen at small sizes*/
+	width: 90%;
   max-width: 570px;
   margin: 0 auto;
-	padding: 0 2em;
+	/* padding: 0 2em; */
 }
 
 /* Typography */
