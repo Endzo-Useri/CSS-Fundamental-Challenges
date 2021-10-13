@@ -114,7 +114,8 @@ section {
 
 /* button styles */
 
-.btn {
+.btn,
+.inverse .btn {
 	display: inline-block;
   color: #252525;
   background: #99d930;
