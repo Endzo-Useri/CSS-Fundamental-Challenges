@@ -160,6 +160,10 @@ section {
 		display: flex;
 	}
 
+	section {
+		background: lightblue;
+	}
+
 	.articles.inverse {
 		background: #99d930;
 		color: #252525;
