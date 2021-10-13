@@ -109,6 +109,8 @@ section {
 
 header {
 	min-height: 100vh;
+	display: flex;
+	align-items: center;
 }
 
 .inverse {
