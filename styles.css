@@ -177,6 +177,10 @@ section {
 		color: darkgreen;
 	}
 
+	.articles.inverse a:active {
+		color: firebrick;
+	}
+
 	.articles.inverse .btn {
 		background: #252525;
 		color: #fff;
