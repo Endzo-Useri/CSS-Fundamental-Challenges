@@ -178,20 +178,20 @@ section {
 	}
 
 	.articles.inverse .btn {
-		color: #fff;
 		background: #252525;
+		color: #fff;
 	}
 
 	.articles.inverse .btn:hover,
 	.articles.inverse .btn:focus {
-		color: #252525;
 		background: #fff;
+		color: #252525;
 		border: 3px solid #252525;
 	}
 
 	.articles.inverse .btn:active {
-		color: #fff;
 		background: #252525;
+		color: #fff;
 	}
 
 	.articles.inverse h2 {
