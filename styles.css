@@ -107,6 +107,10 @@ section {
   padding: 6.25em 0;
 }
 
+header {
+	min-height: 100vh;
+}
+
 .inverse {
   background: hsl(0, 0%, 15%);
   color: #fff;
