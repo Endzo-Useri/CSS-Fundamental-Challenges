@@ -224,5 +224,10 @@ header {
 
 	.work {
 		display: flex;
+		justify-content: space-between;
+	}
+
+	.portfolio-item {
+		width: 28%;
 	}
 }
