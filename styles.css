@@ -167,8 +167,6 @@ header {
 
 @media (min-width: 750px) {
 	.splitter {
-		border: 10px solid gold;
-		/* max-width: 100%; */
 		display: flex;
 		align-items: center;
 	}
