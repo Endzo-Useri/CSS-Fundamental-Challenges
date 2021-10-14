@@ -221,4 +221,8 @@ header {
 	.portfolio .container {
 		max-width: 1200px;
 	}
+
+	.work {
+		display: flex;
+	}
 }
