@@ -217,4 +217,8 @@ header {
 		background: #252525;
 		color: #fff;
 	}
+
+	.portfolio .container {
+		max-width: 1200px;
+	}
 }
