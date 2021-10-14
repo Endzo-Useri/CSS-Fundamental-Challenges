@@ -166,7 +166,13 @@ header {
 }
 
 @media (min-width: 750px) {
+
+	main {
+		background:hsl(0, 0%, 15%)
+	}
+	
 	.splitter {
+		background: #fff;
 		max-width: 1140px;
 		margin: 0 auto;
 		display: flex;
