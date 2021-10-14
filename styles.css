@@ -174,8 +174,6 @@ header {
 	}
 
 	.articles.inverse {
-		border: 10px solid red;
-		/* max-width: 100%; */
 		background: #99d930;
 		color: #252525;
 	}
