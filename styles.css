@@ -175,14 +175,9 @@ header {
 
 	.articles.inverse {
 		border: 10px solid red;
-		max-width: 100%;
+		/* max-width: 100%; */
 		background: #99d930;
 		color: #252525;
-	}
-
-	.about-me {
-		border: 10px solid blue;
-		max-width: 100%;
 	}
 
 	.articles.inverse .accent-text,
