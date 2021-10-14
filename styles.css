@@ -24,7 +24,7 @@ header img {
 	/* width or padding used to keep content
 	from touching sides of screen at small sizes*/
 	/* width: 90%; */
-  max-width: 570px;
+  max-width: 100%;
   margin: 0 auto;
 	padding: 0 2em;
 }
@@ -182,6 +182,7 @@ header {
 
 	.about-me {
 		border: 10px solid blue;
+		max-width: 100%;
 	}
 
 	.articles.inverse .accent-text,
