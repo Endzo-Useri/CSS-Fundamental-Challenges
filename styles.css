@@ -167,13 +167,21 @@ header {
 
 @media (min-width: 750px) {
 	.splitter {
+		border: 10px solid gold;
+		/* max-width: 100%; */
 		display: flex;
 		align-items: center;
 	}
 
 	.articles.inverse {
+		border: 10px solid red;
+		max-width: 100%;
 		background: #99d930;
 		color: #252525;
+	}
+
+	.about-me {
+		border: 10px solid blue;
 	}
 
 	.articles.inverse .accent-text,
