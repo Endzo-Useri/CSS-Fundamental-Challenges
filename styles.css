@@ -212,4 +212,9 @@ header {
 	.articles.inverse h2 {
 		border-color: currentColor;
 	}
+
+	.portfolio {
+		background: #252525;
+		color: #fff;
+	}
 }
