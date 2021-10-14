@@ -216,6 +216,8 @@ header {
 	.portfolio {
 		background: #252525;
 		color: #fff;
+		min-height: 100vh;
+		display: flex;
 	}
 
 	.portfolio .container {
